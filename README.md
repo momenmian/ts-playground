@@ -31,12 +31,12 @@ To run this project, ensure you have the following:
 
 1. Clone the Story Telling App repository:
    ```
-   git clone https://github.com/momenmian/story-telling-app
+   git clone https://github.com/momenmian/ts-playground
    ```
 
 2. Navigate to the project directory:
    ```
-   cd story-telling-app
+   cd ts-playground
    ```
 
 3. Install dependencies:
