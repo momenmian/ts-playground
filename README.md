@@ -57,10 +57,6 @@ To run this project, ensure you have the following:
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-
-## Open the Application in Your Browser
-Go to [http://localhost:3000](http://localhost:3000) to view and interact with the app.
-
 ## Usage
 1. Upload a `.txt` file containing a story, book, or any content.
 2. Click the **Extract Characters** button to extract characters from the uploaded file.
